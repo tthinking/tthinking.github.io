@@ -6,6 +6,8 @@ Wei Tang is currently a Ph.D. student with the School of Computer Science, Wuhan
 [Research Gate](https://www.researchgate.net/profile/Wei-Tang-92),
 [GitHub](https://github.com/tthinking)
 
+E-mail: [weitang2021@whu.edu.cn](weitang2021@whu.edu.cn)
+
 ### Education
 
 ### Publications
