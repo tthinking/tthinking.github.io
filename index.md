@@ -2,6 +2,9 @@
 <link rel="icon" href="./images/weitang.jpeg">
 Wei Tang is currently a Ph.D. student with the School of Computer Science, Wuhan University, Wuhan, China.
 
+[Google Scholar](https://scholar.google.com.hk/citations?user=fyNWjaAAAAAJ&hl=zh-CN),
+[Research Gate](https://www.researchgate.net/profile/Wei-Tang-92)
+
 ### Education
 
 ### Publications
