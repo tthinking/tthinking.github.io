@@ -2,7 +2,7 @@
 <link rel="icon" href="./images/weitang.jpeg">
 
 
-### Home
+### Education
 
 ### Publications
 
