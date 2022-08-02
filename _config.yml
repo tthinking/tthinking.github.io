@@ -9,7 +9,7 @@ name: Wei Tang
 description: School of Comouter Science, Wuhan University.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/weitang.jpeg
+avatar: ./images/weitang.jpeg
 
 #
 # Flags below are optional
