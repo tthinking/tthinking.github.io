@@ -1,3 +1,7 @@
+# Short bio or description (displayed in the header)
+description: School of Computer Science, Wuhan University.
 
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: /images/weitang.jpeg
 
 theme: jekyll-theme-cayman
