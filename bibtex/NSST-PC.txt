@@ -1,0 +1,9 @@
+@ARTICLE{Tang_2020_NSST-PC,
+  author={Tang, Wei and Liu, Yu and Cheng, Juan and Li, Chang and Peng, Hu and Chen, Xun},
+  journal={Microscopy Research and Technique}, 
+  title={A phase congruency-based green fluorescent protein and phase contrast image fusion method in nonsubsampled shearlet transform domain}, 
+  year={2020},
+  volume={83},
+  number={10},
+  pages={1225–1234},
+  doi={10.1002/jemt.23514}}
