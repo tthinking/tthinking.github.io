@@ -1,0 +1,9 @@
+@ARTICLE{Tang_2022_YDTR,
+  author={Tang, Wei and He, Fazhi and Liu, Yu},
+  journal={IEEE Transactions on Multimedia}, 
+  title={YDTR: Infrared and Visible Image Fusion via Y-shape Dynamic Transformer}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/TMM.2022.3192661}}
