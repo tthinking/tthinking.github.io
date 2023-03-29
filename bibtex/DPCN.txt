@@ -1,0 +1,9 @@
+@ARTICLE{Tang_2021_DPCN,
+  author={Tang, Wei and Liu, Yu and Cheng, Juan and Li, Chang and Chen, Xun},
+  journal={IEEE Transactions on Computational Imaging}, 
+  title={Green Fluorescent Protein and Phase Contrast Image Fusion Via Detail Preserving Cross Network}, 
+  year={2021},
+  volume={7},
+  number={},
+  pages={584-597},
+  doi={10.1109/TCI.2021.3083965}}
