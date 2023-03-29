@@ -1,0 +1,9 @@
+@ARTICLE{Tang_2019_GFP-PC-GAN,
+  author={Tang, Wei and Liu, Yu and Zhang Chao and Cheng, Juan and Peng, Hu and Chen, Xun},
+  journal={Computational and Mathematical Methods in Medicine}, 
+  title={Green fluorescent protein and phase-contrast image fusion via generative adversarial networks}, 
+  year={2019},
+  volume={2019},
+  number={ 5450373},
+  pages={1–11},
+  doi={10.1155/2019/5450373}}
