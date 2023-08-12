@@ -131,8 +131,43 @@
         <a style="color: #447ec9; text-decoration:none; font-weight: bold" onmouseover="this.style.color='#FF0000'" onmouseout="this.style.color='#447ec9'" 
           href="https://github.com/tthinking/tthinking.github.io/blob/main/images/WeChat.pdf/"> WeChat </a>
   -->
-          
+           <!--
           <a href="https://github.com/tthinking/tthinking.github.io/blob/main/images/WeChat.png"><img src="./images/wechatLogo.png" title="WeiTang_AI" style="width:6%"/></a> 
+          -->
+
+          <head>
+    <title>您的网站</title>
+    <style>
+        /* 初始状态下隐藏二维码 */
+        .qrcode {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: white;
+            padding: 20px;
+            border: 1px solid #ccc;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* 鼠标悬停在图标上时显示二维码 */
+        .wechat-icon:hover + .qrcode {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎访问我们的网站！</h1>
+    <p>请悬停在以下微信图标上查看二维码：</p>
+    <a href="https://github.com/tthinking/tthinking.github.io/blob/main/images/WeChat.png" class="wechat-icon">
+        <img src="./images/wechatLogo.png" title="WeiTang_AI" style="width: 6%" />
+    </a>
+    <div class="qrcode">
+        <img src="https://github.com/tthinking/tthinking.github.io/blob/main/images/WeChat.png" alt="微信二维码" style="width: 100%" />
+    </div>
+</body>
+
           
         </p>
         </tbody></table>
