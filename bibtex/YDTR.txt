@@ -3,7 +3,7 @@
   journal={IEEE Transactions on Multimedia}, 
   title={YDTR: Infrared and Visible Image Fusion via Y-shape Dynamic Transformer}, 
   year={2022},
-  volume={25},
+  volume={25}, 
   number={},
   pages={5413-5428},
   doi={10.1109/TMM.2022.3192661}}
