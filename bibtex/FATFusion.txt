@@ -1,7 +1,7 @@
 @ARTICLE{Tang_2024_FATFusion,
   author={Tang, Wei and He, Fazhi},
   journal={Information Processing & Management}, 
-  title={FATFusion: A functional–anatomical transformer for medical image fusion}, 
+  title={FATFusion: A Functional–Anatomical Transformer for Medical Image Fusion}, 
   year={2024},
   volume={61},
   number={4},
