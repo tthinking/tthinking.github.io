@@ -4,6 +4,6 @@
   title={TCCFusion: An Infrared and Visible Image Fusion Method based on Transformer and Cross Correlation}, 
   year={2023},
   volume={137},
-  number={109295},
-  pages={1-14},
+  number={},
+  pages={109295},
   doi={10.1016/j.patcog.2022.109295}}
