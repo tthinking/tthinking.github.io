@@ -1,6 +1,6 @@
 @INPROCEEDINGS{Tang_2021_DARN,
   author={Tang, Wei and Wang, Lei and Liu, Yu},
-  booktitle={2021 IEEE International Conference on Medical Imaging Physics and Engineering (ICMIPE)}, 
+  booktitle={IEEE International Conference on Medical Imaging Physics and Engineering (ICMIPE)}, 
   title={Green Fluorescent Protein and Phase Contrast Image Fusion via Dual Attention Residual Network}, 
   year={2021},
   volume={},
