@@ -1,0 +1,9 @@
+@ARTICLE{Tang_2024_ITFuse,
+  author={Tang, Wei and He, Fazhi and Liu, Yu},
+  journal={Pattern Recognition}, 
+  title={ITFuse: An interactive transformer for infrared and visible image fusion}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={110822},
+  doi={10.1016/j.patcog.2024.110822}}
