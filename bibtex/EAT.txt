@@ -3,7 +3,7 @@
   journal={IEEE Transactions on Multimedia}, 
   title={EAT: Multi-Exposure Image Fusion with Adversarial Learning and Focal Transformer}, 
   year={2025},
-  volume={}, 
+  volume={27}, 
   number={},
-  pages={5413-5428},
+  pages={3744-3754},
   doi={10.1109/TMM.2025.3535390}}
