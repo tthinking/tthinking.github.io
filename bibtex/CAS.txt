@@ -1,0 +1,9 @@
+@ARTICLE{Tang_2026_CAS-Mamba,
+  author={Su, Hui and Tang, Cui and Tang, Wei and He, Fazhi and Liu, Yu and Zhao Shengjie},
+  journal={Information Fusion}, 
+  title={CAS-Mamba: A Fully Content-Aware Image Fusion Network via Semantic Sorting and Balanced Optimization}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={104969},
+  doi={10.1016/j.inffus.2026.104969}}
